@@ -1,0 +1,26 @@
+private Adressfelder
+Geburtstag einzeln
+pgp ids
+diverse chatclients
+irc
+XING
+LinkedIn 
+Facebook 
+github
+Gruppen
+uuid
+otr key
+hash Wert über alles + timestamp 
+timestamp Änderung 
+Kundennummer dort
+Relations 
+
+wie Firmenadresse?
+
+anbinden
+Kontakt.app
+Outlook
+LDAP
+vcf
+Thunderbirds
+emacs
